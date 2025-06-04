@@ -37,7 +37,7 @@ st.markdown(
     This app will:
     1. Let you choose a Gemini variant.  
     2. Upload a scanned document.  
-    3. Run OCR + checkbox/tick‐mark + signature detection.  
+    3. Run text extraction.  
     """
 )
 
